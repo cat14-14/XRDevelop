@@ -1,0 +1,5 @@
+XR interaction Tookit --version : 3.4.1
+XR Hands --version : 1.7.3
+XR Legacy Input Helpers --version : 3.0.1
+XR Plugin Management --version : 4.5.4
+XR Core Utilities --version : 2.5.3
